@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ciscomonkey&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciscomonkey&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ciscomonkey&show_icons=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciscomonkey&layout=compact" />
 
 ![CiscoMonkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciscomonkey&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciscomonkey&layout=compact)
