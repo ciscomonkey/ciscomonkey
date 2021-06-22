@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### GitHub stats (github-readme-stats)
 
 ![CiscoMonkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciscomonkey&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciscomonkey&layout=compact)
+
+### GitHub stats (github-stats)
+
+![CiscoMonkey's GitHub stats](https://raw.githubusercontent.com/ciscomonkey/my-github-stats/master/generated/overview.svg)
+![Top Languages](https://raw.githubusercontent.com/ciscomonkey/my-github-stats/master/generated/languages.svg)
